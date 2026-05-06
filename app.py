@@ -1,0 +1,2 @@
+st.title("Mon app fonctionne 🚀")
+st.write("Si tu vois ça, tout est OK")
